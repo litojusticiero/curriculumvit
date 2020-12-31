@@ -16,9 +16,14 @@ td{
 th{
     border-bottom: 1px teal solid;
 }
-
-
-
+object{
+    width: 400px;
+    height: 200px;
+}
+iframe{
+    width: 400px;
+    height: 200px;
+}
 img.left{
     float: left;
     width: 32%;
