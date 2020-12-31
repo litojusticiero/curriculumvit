@@ -5,11 +5,12 @@ body{
     margin-right: 25%;
 }
 table{
-    border-spacing: 0vh;
+    border-spacing: 0px;
+
 }
 
 td{
-    padding:4vh;
+    padding:20px;
     border-bottom: 1px teal solid;
 }
 th{
