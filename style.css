@@ -1,0 +1,27 @@
+body{
+    font-size: 140%;
+    font-family: "times new roman";
+    margin-left: 25%;
+    margin-right: 25%;
+}
+table{
+    border-spacing: 0vh;
+}
+
+td{
+    padding:4vh;
+    border-bottom: 1px teal solid;
+}
+th{
+    border-bottom: 1px teal solid;
+}
+
+
+
+img.left{
+    float: left;
+    width: 32%;
+    height: 32%;
+    max-width: 100%;
+    max-height: 100%;
+}
