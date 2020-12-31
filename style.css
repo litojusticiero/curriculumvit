@@ -20,9 +20,16 @@ object{
     width: 400px;
     height: 200px;
 }
+.mid{
+    text-align: center;
+}
 iframe{
     width: 400px;
     height: 200px;
+}
+iframe.grande{
+    width: 800px;
+    height: 400px;
 }
 img.left{
     float: left;
